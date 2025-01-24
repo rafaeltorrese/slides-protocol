@@ -1,0 +1,18 @@
+# .marprc.yaml
+allowLocalFiles: False
+options:
+  headingDivider: 2
+  looseYAML: false
+  markdown:
+    breaks: false
+    syntax: python
+pdf: false
+html: true
+pdfOutlines:
+  headings: true
+author: "Rafael Torres-Escobar"
+preview: true
+watch: false
+server: false
+theme: "style.css"
+math: mathjax
